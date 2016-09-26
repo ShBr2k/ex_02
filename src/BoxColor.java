@@ -3,5 +3,5 @@
  */
 public class BoxColor extends Box
     {
-        int color = 1;
+        int color = 0;
     }
