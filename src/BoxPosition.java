@@ -3,5 +3,5 @@
  */
 public class BoxPosition extends Box
 {
-    int position = 0;
+    int position = 1;
 }
